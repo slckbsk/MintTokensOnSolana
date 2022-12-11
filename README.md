@@ -1,2 +1,1 @@
-# MintTokensOnSolana
-Mint-Tokens-On-Solana
+# solana-npx-client-template
